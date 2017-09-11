@@ -1,3 +1,9 @@
 /bin/
 /*.iml
 /.idea
+/.settings/org.eclipse.core.resources.prefs
+/AdobeProblemSet/.idea/libraries/Arquillian_JUnit_Release.xml
+/AdobeProblemSet/.idea/misc.xml
+/AdobeProblemSet/.idea/modules.xml
+/AdobeProblemSet/.idea/workspace.xml
+/AdobeProblemSet/AdobeProblemSet.iml
